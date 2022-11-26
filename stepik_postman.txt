@@ -1,3 +1,5 @@
 GET https://postman-echo.com/delay/:delay
 
 POST https://postman-echo.com/post?name=anna
+
+https://postman-echo.com/get?param1=value1&param2=value2
