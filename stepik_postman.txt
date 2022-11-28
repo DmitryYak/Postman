@@ -9,3 +9,7 @@ https://postman-echo.com/put
     "name": "Anna",
     "last name": "Ivanova"
 }
+https://postman-echo.com/patch 
+{
+    "name": "Lionoza"
+}
