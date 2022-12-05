@@ -50,3 +50,4 @@ pm.test("Name has Luky", function(){
 pm.test("age of dog has '4'", function(){
     pm.expect(jsonData.family.pets.dog.age).to.eql(4)
 })
+
